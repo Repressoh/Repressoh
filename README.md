@@ -1,21 +1,21 @@
-### Hi there 👋
-    
+### Hi there 👋 ^__^
+   
+   
+   
    <a href="https://t.me/Caseduck">
       <img width="50px" src="https://img.icons8.com/fluency/452/telegram-app.png"/>
-  <a href="https://discord.com/channels/@me/696628019422429255">
+  <a href="https://discord.com/channels/@me/696628019422429255"/>
       <img width="50px" src="https://img.icons8.com/fluency/452/discord.png"/>
-      <a href="https://youtube.com/c/Casealby">
+  <a href="https://youtube.com/c/Casealby"/>
       <img width="50px" src="https://www.clipartmax.com/png/full/266-2661594_consoling-clip-art.png"/>
-      <a href="https://caseradio.it">
-      <img width="50px" src="https://img.icons8.com/fluency/452/radio.png"/>
-        
  <p align="center">
   
-🔭 I’m currently working on my radio 
      
-  🌱 I’m currently learning HTML, CSS, Javascript, Python, NodeJS
+ ### 🔭 I’m currently working on my radio 
      
-   ⚡ Fun fact: I am not funny
+ ### 🌱 I’m currently learning HTML, CSS, Javascript, Python, NodeJS
+     
+ ### ⚡ Fun fact: I love sleeping
      
   <p allign="center">
     
