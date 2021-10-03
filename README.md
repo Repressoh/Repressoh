@@ -1,22 +1,22 @@
 ### Hi there 👋
-  <p align="center">
-    <a href="https://t.me/Caseduck">
-      <img width="25px" src="https://img.icons8.com/fluency/452/telegram-app.png"/>
-    </a>
-    <a href="https://youtube.com/c/Casealby">
-      <img width="25px" src="https://img.icons8.com/fluency/452/youtube.png"/>
-    </a>
-     </p>
+    
+   <a href="https://t.me/Caseduck">
+      <img width="50px" src="https://img.icons8.com/fluency/452/telegram-app.png"/>
+  <a href="https://discord.com/channels/@me/696628019422429255">
+      <img width="50px" src="https://img.icons8.com/fluency/452/discord.png"/>
+      <a href="https://youtube.com/c/Casealby">
+      <img width="50px" src="https://www.clipartmax.com/png/full/266-2661594_consoling-clip-art.png"/>
+      <a href="https://caseradio.it">
+      <img width="50px" src="https://img.icons8.com/fluency/452/radio.png"/>
+        
  <p align="center">
   
--🔭 I’m currently working on my radio 
-  -🌱 I’m currently learning HTML, CSS, Javascript, Python, NodeJS
-  -📫 How to reach me:
-      <img width="25px" src="https://img.icons8.com/fluency/452/telegram-app.png" href="https://t.me/Caseduck"/>
-
-  -😄 Pronouns: Ask me
-  -⚡ Fun fact: I am not funny
-
+🔭 I’m currently working on my radio 
+     
+  🌱 I’m currently learning HTML, CSS, Javascript, Python, NodeJS
+     
+   ⚡ Fun fact: I am not funny
+     
   <p allign="center">
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasealbyOfficial&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
