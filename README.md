@@ -18,5 +18,7 @@
   -⚡ Fun fact: I am not funny
 
   <p allign="center">
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasealbyOfficial&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
   </p>
