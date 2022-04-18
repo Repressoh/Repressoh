@@ -11,11 +11,11 @@
  <p align="center">
   
      
- ### 🔭 I’m currently working on my radio 
+ ### 🔭 I’m currently working on TreeparkMC Netowrk
      
- ### 🌱 I’m currently learning HTML, CSS, Javascript, Python, NodeJS
+ ### 🌱 I’m currently learning nothing XD XD
      
- ### ⚡ Fun fact: I love sleeping
+ ### ⚡ Fun fact: dontasktoask.com
      
   <p allign="center">
     
