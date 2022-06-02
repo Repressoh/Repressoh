@@ -21,7 +21,6 @@
      
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=855762880439255060)
 
-[![Spotify](https://casealby-official.vercel.app/api/spotify)](https://open.spotify.com/user/31zvqxajlsyulzerpuscnc3ualyy)
      
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasealbyOfficial&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   </p>
