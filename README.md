@@ -12,9 +12,9 @@
      
  ### 🔭 I’m currently working on TreeparkMC Netowrk
      
- ### 🌱 I’m currently learning nothing XD XD
+ ### 🌱 I’m currently learning Javascript
      
- ### ⚡ Fun fact: dontasktoask.com
+ ### ⚡ Fun fact: I love purple and I use Fedora
      
   <p allign="center">
     
