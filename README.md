@@ -14,7 +14,7 @@
      
  ### 🌱 I’m currently learning Javascript
      
- ### ⚡ Fun fact: I love purple and I use Fedora
+ ### ⚡ Fun fact: I love LEAN 💜💜💜💜💜💜💜💜💜 and I use Fedora
      
   <p allign="center">
     
