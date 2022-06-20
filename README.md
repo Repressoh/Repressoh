@@ -22,7 +22,7 @@
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=855762880439255060)
 
      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasealbyOfficial&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Repressoh&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   </p>
    
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)  
