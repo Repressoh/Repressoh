@@ -1,8 +1,9 @@
-### Hi there 👋 ^__^
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤHi there 👋 ^__^
 
+ㅤㅤㅤㅤㅤ
 
-   <a href="https://t.me/Repressoh">
-      <img width="50px" src="https://img.icons8.com/fluency/452/telegram-app.png"/>
+  <a href="https://t.me/Chatreport">
+      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="50px" src="https://img.icons8.com/fluency/452/telegram-app.png"/>
   <a href="http://discord.treepark.games"/>
       <img width="50px" src="https://img.icons8.com/fluency/452/discord.png"/>
   <a href="https://instagram.com/Repressoh"/>
@@ -12,20 +13,17 @@
      
  ### 🔭 I’m currently working on TreeparkMC Netowrk
      
- ### 🌱 I’m currently learning Javascript
+ ### 🌱 I’m currently learning Java ( SpigotAPi, BungeecordAPI, VelocityAPi )
      
- ### ⚡ Fun fact: I love purple 
+ ### ⚡ Random fact: Super Mario Land was the most popular game on the Game Boy during its release.
      
-  <p allign="center">
-    
-     
-![My Discord](https://discord-readme-badge.vercel.app/api?id=855762880439255060)
+ㅤㅤㅤㅤㅤㅤ
 
-     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Repressoh&count_private=true&show_icons=true&theme=tokyonight)](https://casealby.it)
-  </p>
-   
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Repressoh&count_private=true&show_icons=true&theme=tokyonight)](https://casealby.it)           ㅤㅤㅤㅤ       ![My Discord](https://discord-readme-badge.vercel.app/api?id=855762880439255060)
 
+ㅤㅤㅤㅤ
+<p align="center">
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Repressoh/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Repressoh/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Repressoh/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Spotify](https://casealby-official.vercel.app/api/spotify)](https://open.spotify.com/user/31zvqxajlsyulzerpuscnc3ualyy)
+
+</p>
