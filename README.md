@@ -23,7 +23,3 @@
 
 ㅤㅤㅤㅤ
 <p align="center">
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Spotify](https://casealby-official.vercel.app/api/spotify)](https://open.spotify.com/user/31zvqxajlsyulzerpuscnc3ualyy)
-
-</p>
