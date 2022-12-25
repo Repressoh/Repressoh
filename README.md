@@ -19,7 +19,7 @@
      
 ㅤㅤㅤㅤㅤㅤ
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Repressoh&count_private=true&show_icons=true&theme=tokyonight)](https://casealby.it)           ㅤㅤㅤㅤ       ![My Discord](https://discord-readme-badge.vercel.app/api?id=855762880439255060)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Repressoh&count_private=true&show_icons=true&theme=tokyonight)](https://casealby.it)           ㅤㅤㅤㅤ       ![My Discord](https://discord-readme-badge.vercel.app/api?id=1003076282688491542)
 
 ㅤㅤㅤㅤ
 <p align="center">
