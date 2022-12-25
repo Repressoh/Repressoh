@@ -11,7 +11,7 @@
  <p align="center">
   
      
- ### 🔭 I’m currently working on TreeparkMC Netowrk
+ ### 🔭 I’m currently working on TreeparkMC Network 
      
  ### 🌱 I’m currently learning Java ( SpigotAPi, BungeecordAPI, VelocityAPi )
      
