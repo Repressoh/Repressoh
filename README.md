@@ -11,7 +11,7 @@
  <p align="center">
   
      
- ### 🔭 I’m currently working on Random Projects
+ ### 🔭 I’m currently working on [EZFN](https://discord.gg/fortnitemobile)
      
  ### ⚡ Random fact: Super Mario Land was the most popular game on the Game Boy during its release.
      
