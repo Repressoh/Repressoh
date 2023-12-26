@@ -4,7 +4,7 @@
 
 - 📫 You can reach me at **me@repressoh.eu.org**
 
-- ⚡ Fun fact **Super Mario Land was the most popular game on the Game Boy during its release.**
+- ⚡ Fun fact **Suck my nuts**
 
 
 <div id="image-table" align="left">
